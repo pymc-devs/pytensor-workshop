@@ -1,1 +1,1 @@
-from pytensor_puzzle.src import test
+from pytensor_workshop.src import test

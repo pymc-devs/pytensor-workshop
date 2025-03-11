@@ -1,1 +1,2 @@
-from pytensor_workshop.src import test
+from pytensor_workshop.testing import test
+from pytensor_workshop.history_feature import FullHistory

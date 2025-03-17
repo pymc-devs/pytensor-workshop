@@ -11,6 +11,8 @@ def test(test_fn):
         r"https://media.giphy.com/media/3ePb1CHEjfSRhn6r3c/giphy.gif?cid=ecf05e47lh4bd51owc2fjjq6ur3ap0x6b6tzk0t8yzkh7o5v&ep=v1_gifs_search&rid=giphy.gif&ct=g",
         r"https://media.giphy.com/media/EyhliNtcgPDU5ixfHq/giphy.gif?cid=ecf05e47sl9jeb1qiwsgr40l66lh7nxtjpk7q49d0g99gmb5&ep=v1_gifs_search&rid=giphy.gif&ct=g",
         r"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk1c24wYWNieXVzbWx1b3IzYXA3MjNwNGllNGFyY3F3ZGkzbzZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHJw9NRFDMom487qyo/giphy.gif",
+        r"https://github.com/ColtAllen/pytensor-workshop/blob/success-fail-gifs/data/success_fail_gifs/colt_club_fail.gif",
+        r"https://github.com/ColtAllen/pytensor-workshop/blob/success-fail-gifs/data/success_fail_gifs/failboat.jpeg",
     )
 
     SUCCESS_URLS = (
